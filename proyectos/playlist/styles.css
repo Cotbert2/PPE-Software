@@ -1,0 +1,27 @@
+*{
+    margin: 10;
+    padding: 20;
+}
+html{ 
+    background-color: slateblue;
+}
+.titulo{
+    font-family: 'Noto Sans', sans-serif;
+    text-align: center;
+    margin: 2rem;
+    color: rgb(26, 8, 88);
+    background-color: rgb(35, 192, 197);
+    border-radius: 1rem;
+}
+iframe{
+    width: 40rem;
+    margin: 4rem 5rem;
+    border-style: double;
+}
+.df{
+    display: inline;
+}
+
+iframe:hover{
+    border-color: rgb(230, 208, 19);
+}

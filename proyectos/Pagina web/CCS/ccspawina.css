@@ -1,0 +1,46 @@
+body{
+
+    background-image: url(../img/cielo-estrellado.jpg) ;
+
+}
+
+*{
+margin: 0px;
+padding: 0px;
+
+}
+h1{
+
+color:rgb(29, 68, 243) ;
+border-radius: 8px;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: rgb(233, 192, 81);
+margin: 2rem ;
+height: 4rem;
+font-size: 3rem;
+font-weight: 200;
+
+
+}
+
+
+.img{
+
+    border: solid rgb(29, 68, 243) 15px;
+    width: 30em;
+    height: 30rem;
+    margin: 3rem   5rem;
+    
+    border-radius:3px;
+
+}
+.img:hover{
+
+    border: dotted rgb(255, 255, 255) 10px;
+    border-radius: 13px;
+    
+}
+div{
+    display: flex;
+}

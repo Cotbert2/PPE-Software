@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-color: rgb(236, 247, 243)
+}
+.ti{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    margin: 2rem;
+    color:black ;
+    background-color: rgb(240, 208, 240);
+    border-radius: 1rem;
+}
+img{
+    width: 25rem;
+    margin: 2rem 8rem ;
+    border-style: double;
+    border-color:black;
+   
+}
+.df{
+    display: flex;
+}
+img:hover{
+    border-color: rgb(230, 166, 230);
+}

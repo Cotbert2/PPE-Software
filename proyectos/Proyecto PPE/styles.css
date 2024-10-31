@@ -1,0 +1,31 @@
+*{
+    margin: 0rem;
+    padding: 1rem;
+    border-radius: 2rem;
+}
+html{ 
+    background-image: url(./Img/fondo\ abstracto.jpeg) ;
+    background-size: cover;
+    background-position: auto;
+    color: rgb(255, 255, 255);
+ }
+ .titulo{
+     color: rgb(170, 162, 162);
+     background-color: rgba(163, 105, 17, 0.589);
+     font-size: 2rem;
+     font-family: 'Hanalei', cursiva;
+     text-align: center;
+     familia de fuentes: 'Pangolin', cursiva;
+ }
+ img{ 
+    width: 20rem;
+    margin-left: 0rem;
+    text-align: left;
+ }
+ .df{
+     display: flex;
+     font-size: 1.3rem;
+ }
+ a:hover {
+    background-color: rgb(122, 108, 103);
+}

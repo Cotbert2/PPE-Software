@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(39, 119, 129);
+}
+img{
+    margin-top: 50px;
+    margin-left: 120px;
+    margin-bottom: 60px;
+}
+nav{
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+    margin-top: 10px;
+    padding: 1rem;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+}
