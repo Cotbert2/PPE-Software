@@ -15,3 +15,5 @@ This project makes me happy, because I see how my classmates learned and how we 
 If some member of the club is reading this, I want to say that I'm proud of you, and I hope you are still coding and learning new things.
 
 ## Deployment
+
+[Click here to see the project](https://cotbert2.github.io/PPE-Software/)
